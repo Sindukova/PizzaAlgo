@@ -1,4 +1,5 @@
 Select the Pizza Place
+1a.Look for local spot
 Look at the menu
 Choose a Pizza 
 Choose payment method
